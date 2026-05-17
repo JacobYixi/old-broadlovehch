@@ -44,7 +44,7 @@ export default function Footer() {
               </div>
               <div>
                 <div className="font-bold text-white text-lg">博爱恐同症矫治医院</div>
-                <div className="text-[10px] text-gray-500 tracking-wider">BOAI HOMOPHOBIA CORRECTION HOSPITAL</div>
+                <div className="text-[10px] text-gray-500 tracking-wider">BROAD LOVE HOMOPHOBIA CORRECTION HOSPITAL</div>
               </div>
             </div>
             <p className="text-sm text-gray-400 leading-relaxed mb-4">

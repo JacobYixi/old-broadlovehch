@@ -42,7 +42,7 @@ export default function Header() {
             </div>
             <div className="hidden sm:block">
               <div className="font-bold text-[#0C6B8A] text-lg leading-tight">博爱恐同症矫治医院</div>
-              <div className="text-[10px] text-gray-400 tracking-wider">BOAI HOMOPHOBIA CORRECTION HOSPITAL</div>
+              <div className="text-[10px] text-gray-400 tracking-wider">BROAD LOVE HOMOPHOBIA CORRECTION HOSPITAL</div>
             </div>
             <div className="sm:block md:hidden">
               <div className="font-bold text-[#0C6B8A] text-sm leading-tight">博爱矫治医院</div>
