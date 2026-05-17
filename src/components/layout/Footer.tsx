@@ -16,7 +16,6 @@ const quickLinks = [
     links: [
       { href: '/about', label: '医院简介' },
       { href: '/team', label: '专家团队' },
-      { href: '/news', label: '医院动态' },
       { href: '/faq', label: '常见问题' },
     ],
   },
