@@ -73,8 +73,8 @@ export default function HomePage() {
               恐同症是一种可诊断、可治疗的心理障碍
             </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight mb-6">
-              恐同不是立场<br />
-              <span className="text-[#7DD3E8]">是需要被治愈的偏见</span>
+              恐同不是正义<br />
+              <span className="text-[#7DD3E8]">是伤害</span>
             </h1>
             <p className="text-lg md:text-xl text-white/80 mb-8 leading-relaxed max-w-2xl">
               博爱恐同症矫治医院专注于恐同症的临床研究与矫治，以科学的方法帮助患者
