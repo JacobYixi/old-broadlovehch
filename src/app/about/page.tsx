@@ -34,14 +34,14 @@ const values = [
 ];
 
 const milestones = [
-  { year: '2009', event: '博爱恐同症矫治医院创立，开始恐同症的系统化临床研究' },
-  { year: '2012', event: '发表《恐同症认知偏差识别与分类》研究论文，提出五级分类标准' },
-  { year: '2015', event: '研发"认知重构疗法"并投入临床使用，首年矫治成功率达82%' },
-  { year: '2017', event: '开设国内首个恐同症专科门诊，年接诊量突破2000人次' },
-  { year: '2019', event: '推出"共情唤醒疗程"，将矫治成功率提升至93%' },
-  { year: '2021', event: '建立线上自测与远程诊疗系统，覆盖全国患者' },
-  { year: '2023', event: '累计接诊超过10,000人次，矫治成功率稳定在96%以上' },
-  { year: '2024', event: '发布《恐同症矫治白皮书》，推动社会对恐同症的科学认知' },
+  { year: '1969', event: '美国纽约石墙暴动爆发，标志着现代LGBTQ+平权运动的正式开端，全球各地开始系统性反抗对性少数的歧视与压迫' },
+  { year: '1973', event: '美国精神医学学会将同性恋从精神障碍诊断与统计手册（DSM）中删除，确认同性恋不是一种疾病' },
+  { year: '1978', event: '美国艺术家吉尔伯特·贝克设计出彩虹旗，成为LGBTQ+群体的象征，代表多元与团结' },
+  { year: '1990', event: '世界卫生组织（WHO）将同性恋从国际疾病分类（ICD）中移除，标志着全球医学界对同性恋去病化的共识' },
+  { year: '2003', event: '美国最高法院在劳伦斯诉德克萨斯州案中裁定，反鸡奸法违宪，同性性行为合法化取得里程碑式胜利' },
+  { year: '2015', event: '美国最高法院裁定同性婚姻全美合法，成为LGBTQ+平权运动史上的重大胜利' },
+  { year: '2019', event: '世界卫生组织发布新版ICD-11，正式将"性别不一致"去病化，将跨性别身份从精神疾病分类中移除' },
+  { year: '2023', event: '联合国通过首份关于LGBTQ+权利的全球决议，呼吁各国废除基于性取向和性别认同的歧视性法律' },
 ];
 
 export default function AboutPage() {
@@ -131,7 +131,10 @@ export default function AboutPage() {
       <section className="bg-white py-16">
         <div className="max-w-4xl mx-auto px-4">
           <div className="text-center mb-12">
-            <h2 className="text-3xl font-bold text-gray-800 section-title inline-block">发展历程</h2>
+            <h2 className="text-3xl font-bold text-gray-800 section-title inline-block">国际LGBTQ+平权运动历程</h2>
+            <p className="text-gray-500 mt-4 max-w-2xl mx-auto">
+              了解全球范围内为争取性少数群体平等权利而进行的斗争与胜利
+            </p>
           </div>
           <div className="relative">
             <div className="absolute left-8 md:left-1/2 top-0 bottom-0 w-0.5 bg-[#0C6B8A]/20" />
