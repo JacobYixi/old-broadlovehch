@@ -1,19 +1,12 @@
 'use client';
 
 import Link from 'next/link';
-import { useEffect, useState } from 'react';
+
 import {
-  Activity, Brain, Heart, Shield, Users, ChevronRight,
-  CheckCircle2, AlertTriangle, Stethoscope, ClipboardCheck,
+  Activity, Brain, Heart, ChevronRight,
+  AlertTriangle, Stethoscope, ClipboardCheck,
   ArrowRight, Star
 } from 'lucide-react';
-
-const stats = [
-  { icon: Users, value: 0, suffix: '+', label: '专业研究数据' },
-  { icon: CheckCircle2, value: 0, suffix: '%', label: '所谓成功率' },
-  { icon: Brain, value: 0, suffix: '项', label: '所谓专利' },
-  { icon: Shield, value: 0, suffix: '项', label: '不存在的专利' },
-];
 
 const services = [
   {
@@ -63,36 +56,6 @@ const testimonials = [
   },
 ];
 
-function AnimatedCounter({ value, suffix }: { value: number; suffix: string }) {
-  const [display, setDisplay] = useState(0);
-  const [mounted, setMounted] = useState(false);
-
-  useEffect(() => {
-    setMounted(true);
-    const step = value / 60;
-    let current = 0;
-    const timer = setInterval(() => {
-      current += step;
-      if (current >= value) {
-        setDisplay(value);
-        clearInterval(timer);
-      } else {
-        setDisplay(Math.floor(current * 10) / 10);
-      }
-    }, 16);
-    return () => clearInterval(timer);
-  }, [value]);
-
-  if (!mounted) return <span>0{suffix}</span>;
-
-  return (
-    <span>
-      {Number.isInteger(value) ? Math.floor(display) : display.toFixed(1)}
-      {suffix}
-    </span>
-  );
-}
-
 export default function HomePage() {
   return (
     <div>
@@ -133,25 +96,6 @@ export default function HomePage() {
                 <ArrowRight className="w-4 h-4" />
               </Link>
             </div>
-          </div>
-        </div>
-      </section>
-
-      {/* Stats */}
-      <section className="bg-white border-b">
-        <div className="max-w-7xl mx-auto px-4 py-8">
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
-            {stats.map((stat) => (
-              <div key={stat.label} className="text-center">
-                <div className="flex justify-center mb-2">
-                  <stat.icon className="w-8 h-8 text-[#0C6B8A]" />
-                </div>
-                <div className="text-3xl md:text-4xl font-bold text-[#0C6B8A]">
-                  <AnimatedCounter value={stat.value} suffix={stat.suffix} />
-                </div>
-                <div className="text-sm text-gray-500 mt-1">{stat.label}</div>
-              </div>
-            ))}
           </div>
         </div>
       </section>

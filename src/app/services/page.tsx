@@ -128,13 +128,13 @@ export default function ServicesPage() {
             </div>
             <div className="bg-white rounded-lg p-4 text-center">
               <Shield className="w-6 h-6 text-[#0C6B8A] mx-auto mb-2" />
-              <div className="text-sm font-medium text-gray-800">0项专利</div>
-              <div className="text-xs text-gray-500">讽刺性项目</div>
+              <div className="text-sm font-medium text-gray-800">多维评估</div>
+              <div className="text-xs text-gray-500">全面诊断</div>
             </div>
             <div className="bg-white rounded-lg p-4 text-center">
               <CheckCircle2 className="w-6 h-6 text-[#0C6B8A] mx-auto mb-2" />
-              <div className="text-sm font-medium text-gray-800">N/A</div>
-              <div className="text-xs text-gray-500">不存在的数据</div>
+              <div className="text-sm font-medium text-gray-800">循证干预</div>
+              <div className="text-xs text-gray-500">科学方案</div>
             </div>
             <div className="bg-white rounded-lg p-4 text-center">
               <Eye className="w-6 h-6 text-[#0C6B8A] mx-auto mb-2" />

@@ -135,26 +135,6 @@ export default function CasesPage() {
         </div>
       </section>
 
-      {/* Stats */}
-      <section className="bg-white py-8 border-b">
-        <div className="max-w-7xl mx-auto px-4">
-          <div className="grid grid-cols-3 gap-6 text-center">
-            <div>
-              <div className="text-3xl font-bold text-[#0C6B8A]">--</div>
-              <div className="text-sm text-gray-500">虚构的成功率</div>
-            </div>
-            <div>
-              <div className="text-3xl font-bold text-[#0C6B8A]">?</div>
-              <div className="text-sm text-gray-500">编造的周期</div>
-            </div>
-            <div>
-              <div className="text-3xl font-bold text-[#0C6B8A]">--</div>
-              <div className="text-sm text-gray-500">不存在的满意度</div>
-            </div>
-          </div>
-        </div>
-      </section>
-
       {/* Cases */}
       <section className="bg-[#F5F7FA] py-16">
         <div className="max-w-4xl mx-auto px-4 space-y-4">
