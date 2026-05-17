@@ -15,7 +15,6 @@ const navItems = [
   { href: '/assessment', label: '在线自测' },
   { href: '/appointment', label: '在线预约' },
   { href: '/knowledge', label: '科普知识' },
-  { href: '/news', label: '医院动态' },
   { href: '/faq', label: '常见问题' },
 ];
 
