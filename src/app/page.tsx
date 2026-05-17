@@ -9,10 +9,10 @@ import {
 } from 'lucide-react';
 
 const stats = [
-  { icon: Users, value: 12847, suffix: '+', label: '累计接诊' },
-  { icon: CheckCircle2, value: 96.8, suffix: '%', label: '矫治成功率' },
-  { icon: Brain, value: 15, suffix: '年', label: '临床研究经验' },
-  { icon: Shield, value: 8, suffix: '项', label: '专利疗法' },
+  { icon: Users, value: 0, suffix: '+', label: '专业研究数据' },
+  { icon: CheckCircle2, value: 0, suffix: '%', label: '所谓成功率' },
+  { icon: Brain, value: 0, suffix: '年', label: '虚构临床历史' },
+  { icon: Shield, value: 0, suffix: '项', label: '不存在的专利' },
 ];
 
 const services = [

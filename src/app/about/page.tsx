@@ -79,29 +79,13 @@ export default function AboutPage() {
                 </p>
               </div>
             </div>
-            <div className="bg-[#E8F4F8] rounded-xl p-8">
-              <div className="text-center mb-6">
-                <div className="text-5xl font-bold text-[#0C6B8A]">15+</div>
-                <div className="text-gray-500 mt-2">年临床研究经验</div>
-              </div>
-              <div className="grid grid-cols-2 gap-4">
-                <div className="bg-white rounded-lg p-4 text-center">
-                  <div className="text-2xl font-bold text-[#0C6B8A]">8</div>
-                  <div className="text-xs text-gray-500 mt-1">专利疗法</div>
-                </div>
-                <div className="bg-white rounded-lg p-4 text-center">
-                  <div className="text-2xl font-bold text-[#0C6B8A]">23</div>
-                  <div className="text-xs text-gray-500 mt-1">专职研究员</div>
-                </div>
-                <div className="bg-white rounded-lg p-4 text-center">
-                  <div className="text-2xl font-bold text-[#0C6B8A]">12</div>
-                  <div className="text-xs text-gray-500 mt-1">研究论文</div>
-                </div>
-                <div className="bg-white rounded-lg p-4 text-center">
-                  <div className="text-2xl font-bold text-[#0C6B8A]">96.8%</div>
-                  <div className="text-xs text-gray-500 mt-1">矫治成功率</div>
-                </div>
-              </div>
+            <div className="bg-[#E8F4F8] rounded-xl p-8 flex flex-col justify-center">
+              <blockquote className="text-lg text-[#0C6B8A] italic leading-relaxed border-l-4 border-[#0C6B8A] pl-4">
+                &ldquo;恐同症不是同性恋者的疾病，而是恐同者自己的认知缺陷。&rdquo;
+              </blockquote>
+              <p className="text-sm text-gray-500 mt-4 pl-4">
+                我们的研究不依赖于虚构的数据，而是基于对偏见的深刻洞察。
+              </p>
             </div>
           </div>
         </div>

@@ -140,16 +140,16 @@ export default function CasesPage() {
         <div className="max-w-7xl mx-auto px-4">
           <div className="grid grid-cols-3 gap-6 text-center">
             <div>
-              <div className="text-3xl font-bold text-[#0C6B8A]">96.8%</div>
-              <div className="text-sm text-gray-500">总体矫治成功率</div>
+              <div className="text-3xl font-bold text-[#0C6B8A]">--</div>
+              <div className="text-sm text-gray-500">虚构的成功率</div>
             </div>
             <div>
-              <div className="text-3xl font-bold text-[#0C6B8A]">4.2月</div>
-              <div className="text-sm text-gray-500">平均治疗周期</div>
+              <div className="text-3xl font-bold text-[#0C6B8A]">?</div>
+              <div className="text-sm text-gray-500">编造的周期</div>
             </div>
             <div>
-              <div className="text-3xl font-bold text-[#0C6B8A]">98.5%</div>
-              <div className="text-sm text-gray-500">患者满意度</div>
+              <div className="text-3xl font-bold text-[#0C6B8A]">--</div>
+              <div className="text-sm text-gray-500">不存在的满意度</div>
             </div>
           </div>
         </div>
