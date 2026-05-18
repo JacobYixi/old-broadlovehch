@@ -134,8 +134,8 @@ function getResult(score: number) {
       bgColor: 'bg-green-50',
       borderColor: 'border-green-200',
       icon: CheckCircle2,
-      desc: '恭喜你，你是个正常人。在这个测试里拿低分不是什么值得骄傲的事，但在当前这个社会环境下，确实不容易。',
-      advice: '继续保持，顺便把这个测试链接转发给你身边那些"我只是传统"的朋友，让他们也测测看。',
+      desc: '你展现出了良好的包容性和平等意识，对性取向多样性有健康的认知。在当前社会环境下，保持这样的认知并不容易。',
+      advice: '感谢你是 ally。如果你愿意，可以把本测试转发给你身边那些"我只是传统"的朋友，让他们也来看看自己是什么水平。',
     };
   } else if (percentage <= 30) {
     return {
