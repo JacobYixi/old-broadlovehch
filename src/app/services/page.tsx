@@ -129,7 +129,7 @@ export default function ServicesPage() {
             <div className="bg-white rounded-lg p-4 text-center">
               <BookOpen className="w-6 h-6 text-[#0C6B8A] mx-auto mb-2" />
               <div className="text-sm font-medium text-gray-800">6大疗法</div>
-              <div className="text-xs text-gray-500">从温和到强制</div>
+              <div className="text-xs text-gray-500">强制干预手段</div>
             </div>
             <div className="bg-white rounded-lg p-4 text-center">
               <Shield className="w-6 h-6 text-[#0C6B8A] mx-auto mb-2" />
@@ -235,7 +235,6 @@ export default function ServicesPage() {
                 <strong className="text-[#D4380D]">本页面描述的所有"疗法"均为真实存在过的暴行。</strong>
                 历史上，同性恋者曾被强迫接受电击、监禁、强制劳动、药物注射、人格羞辱等虐待，这些行为被包装为"治疗"。
                 本网站通过角色反转——将这些手段"推荐"给恐同者——来揭示这种逻辑的荒谬与残忍。
-                <strong className="text-gray-800">没有任何人应该被这样对待。</strong>
               </p>
             </div>
           </div>
