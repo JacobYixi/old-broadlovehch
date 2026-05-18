@@ -117,7 +117,7 @@ export default function ServicesPage() {
         <div className="max-w-7xl mx-auto px-4">
           <h1 className="text-4xl font-bold mb-4">诊疗项目</h1>
           <p className="text-white/80 text-lg max-w-2xl">
-            从温和的心理疏导到强制的物理干预，我们为不同程度的恐同症患者提供分级诊疗方案
+            从思想改造到强制干预，我们为不同程度的恐同症患者提供"合适"的诊疗方案
           </p>
         </div>
       </section>

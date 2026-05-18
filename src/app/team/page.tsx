@@ -12,7 +12,7 @@ const doctors = [
   },
   {
     name: '林慧心',
-    title: '药物辅助抑制疗程首席专家',
+    title: '药物辅助干预首席专家',
     specialty: '叙事疗法 / 共情训练',
     icon: Heart,
     focus: '生理指标调控与情绪稳定化干预 / 通过药物辅助降低患者的敌意与焦虑反应',
@@ -21,7 +21,7 @@ const doctors = [
   },
   {
     name: '陈志远',
-    title: '厌恶条件反射训练中心主任',
+    title: '羞耻疗法科主任',
     specialty: '行为治疗 / 暴露疗法',
     icon: Activity,
     focus: '刺激-反应配对与恐同行为抑制 / 通过条件反射建立对偏见表达的抑制机制',

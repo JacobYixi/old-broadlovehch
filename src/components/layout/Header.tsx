@@ -27,7 +27,7 @@ export default function Header() {
       {/* Top bar */}
       <div className="bg-[#0C6B8A] text-white text-xs">
         <div className="max-w-7xl mx-auto px-4 py-1.5 flex justify-between items-center">
-          <span>恐同症是一种可以治愈的心理障碍 — 博爱恐同症矫治医院</span>
+          <span>恐同症是一种需要矫治的心理障碍 — 博爱恐同症矫治医院</span>
           <span className="hidden sm:inline">本网站为讽刺性艺术项目，旨在促进平等与包容</span>
         </div>
       </div>

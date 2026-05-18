@@ -50,7 +50,7 @@ export default function Footer() {
               </div>
             </div>
             <p className="text-sm text-gray-400 leading-relaxed mb-4">
-              致力于恐同症的科学研究与临床矫治，帮助患者重建平等、包容的认知体系。
+              专治各种不服。当年你觉得同性恋需要"治疗"，现在我们把同样的标准还给你。
             </p>
             <div className="flex gap-3">
               <div className="w-8 h-8 rounded bg-[#0C6B8A]/30 flex items-center justify-center">
