@@ -4,12 +4,12 @@ import { useState } from 'react';
 import { CalendarDays, Clock, User, CheckCircle2, AlertTriangle } from 'lucide-react';
 
 const departments = [
-  '认知重构科',
-  '共情唤醒科',
-  '行为脱敏科',
-  '深度疏导科',
-  '团体矫治科',
-  '家庭联合科',
+  '电击矫正科',
+  '监禁约束科',
+  '强制劳动科',
+  '药物干预科',
+  '体罚纪律科',
+  '洗脑教育科',
 ];
 
 const timeSlots = [
