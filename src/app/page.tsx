@@ -74,7 +74,7 @@ export default function HomePage() {
             </div>
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight mb-6">
               恐同不是正常<br />
-              <span className="text-[#7DD3E8]">是需要被治愈的偏见</span>
+              <span className="text-[#7DD3E8]">是需要被矫治的偏见</span>
             </h1>
             <p className="text-lg md:text-xl text-white/80 mb-8 leading-relaxed max-w-2xl">
               博爱恐同症矫治医院专注于恐同症的临床研究与矫治，以科学的方法帮助患者
