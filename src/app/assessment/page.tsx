@@ -235,7 +235,7 @@ export default function AssessmentPage() {
             <h2 className="text-2xl font-bold text-gray-800 mb-4">恐同指数自测量表</h2>
             <p className="text-gray-600 leading-relaxed mb-6">
               本量表由博爱恐同症矫治医院研发，共10道题目，约需3分钟完成。
-              请根据你的真实感受选择最符合的答案，没有对错之分。
+              请根据你的真实感受选择最符合的答案。
               测试结果仅作为参考，不构成医学诊断。
             </p>
             <div className="bg-[#F5F7FA] rounded-lg p-6 text-left mb-8">
@@ -247,7 +247,7 @@ export default function AssessmentPage() {
                 </li>
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="w-4 h-4 text-[#0C6B8A] shrink-0 mt-0.5" />
-                  没有对错之分，不要选择"应该选"的答案
+                  不要选择"应该选"的答案
                 </li>
                 <li className="flex items-start gap-2">
                   <CheckCircle2 className="w-4 h-4 text-[#0C6B8A] shrink-0 mt-0.5" />
