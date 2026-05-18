@@ -232,9 +232,9 @@ export default function ServicesPage() {
             <div className="flex items-start gap-3">
               <span className="text-[#D4380D] text-lg shrink-0">⚠</span>
               <p className="text-sm text-gray-600 leading-relaxed">
-                <strong className="text-[#D4380D]">本页面描述的所有"疗法"均为真实存在过的暴行。</strong>
-                历史上，同性恋者曾被强迫接受电击、监禁、强制劳动、药物注射、人格羞辱等虐待，这些行为被包装为"治疗"。
-                现在我们把它们还给恐同者——不是真的要电你、关你、打你，而是让你知道：你当年喊"同性恋是病该治"的时候，嘴脸有多恶心。你支持的"治疗"，就是这些。该被治疗的是恐同症，不是同性恋。
+                <strong className="text-[#D4380D]">本院诊疗方案的设计充分参考了国际上的历史实践经验，确保每一项干预措施都有据可依。</strong>
+                我们诚挚地邀请每一位患者亲身体验这些经过时间检验的疗法——毕竟，当年有不少人坚信这些方法"合理"且"有效"。
+                本院始终坚持：科学的疗法应当被公平地应用。如果您对我们的治疗方案有任何疑问，欢迎到院详询。
               </p>
             </div>
           </div>
