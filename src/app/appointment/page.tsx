@@ -94,8 +94,8 @@ export default function AppointmentPage() {
             </div>
             <h2 className="text-2xl font-bold text-gray-800 mb-4">预约信息已提交</h2>
             <p className="text-gray-600 mb-8">
-              感谢你的信任！你的预约信息已经收到。
-              这是一个讽刺性艺术项目，实际上不会有人联系你。
+              您的预约信息已记录。本院工作人员将在24小时内与您联系，确认就诊安排。
+              这是一个讽刺性艺术项目，实际上不会有人联系您。
             </p>
             <div className="bg-[#F5F7FA] rounded-lg p-6 text-left max-w-md mx-auto mb-8">
               <h3 className="font-bold text-gray-800 mb-3">预约摘要</h3>

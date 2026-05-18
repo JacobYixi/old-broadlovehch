@@ -5,23 +5,23 @@ import { Heart, Shield, BookOpen, Users, Eye, Target } from 'lucide-react';
 const values = [
   {
     icon: Heart,
-    title: '铁腕与惩戒',
-    desc: '偏见不是观点，是错误。错误需要被纠正，无论对方愿不愿意',
+    title: '专业严谨',
+    desc: '每一项诊疗方案均基于循证医学原则，确保干预手段的科学性与规范性',
   },
   {
     icon: Shield,
-    title: '手段与效率',
-    desc: '电击、监禁、药物、洗脑——你当年觉得同性恋者"值得"这些，现在恐同者也"值得"',
+    title: '患者至上',
+    desc: '以患者需求为中心，提供个性化、分层次的矫治服务，力求最佳疗效',
   },
   {
     icon: BookOpen,
-    title: '算账与报应',
-    desc: '当年支持对别人做的那些事，现在一笔一笔还回来。这叫公平',
+    title: '科学循证',
+    desc: '所有干预方法均有心理学与神经科学研究支撑，拒绝伪科学与非理性手段',
   },
   {
     icon: Users,
-    title: '使命与立场',
-    desc: '不是来跟你讲道理的。恐同者当年也没跟同性恋者讲道理',
+    title: '社会责任',
+    desc: '致力于消除社会偏见，推动多元包容的公共认知，共建和谐社会',
   },
 ];
 
@@ -51,21 +51,20 @@ export default function AboutPage() {
                 </p>
                 <p>
                   长期以来，社会对性少数群体的偏见和歧视被包装成"传统价值观"或"个人观点"，
-                  但这玩意儿本质上就是对陌生人的无端仇恨。你对同性恋的恐惧和排斥，和你因为别人用左手写字就想揍他一样——
-                  没道理、丢人、该改。
+                  但这本质上是一种基于无知与恐惧的心理防御机制。本院采用国际先进的认知重构与行为干预技术，
+                  为不同程度的恐同症患者提供分级诊疗方案。
                 </p>
                 <p>
-                  我们的"使命"很简单：你当年觉得同性恋需要"治疗"，现在我们把同样的逻辑还给你。
-                  电击、监禁、药物、洗脑——这些你支持的"正义手段"，现在全部用在你身上。公平吧？
+                  我们的愿景是：建立一个没有偏见的社会——从帮助每一位恐同症患者重新认识世界开始。
                 </p>
               </div>
             </div>
             <div className="bg-[#E8F4F8] rounded-xl p-8 flex flex-col justify-center">
               <blockquote className="text-lg text-[#0C6B8A] italic leading-relaxed border-l-4 border-[#0C6B8A] pl-4">
-                &ldquo;当年你觉得同性恋需要治疗，现在轮到你自己了。&rdquo;
+                &ldquo;偏见不是观点，是错误。错误需要被纠正。&rdquo;
               </blockquote>
               <p className="text-sm text-gray-500 mt-4 pl-4">
-                欢迎来到博爱恐同症矫治医院。
+                —— 博爱恐同症矫治医院
               </p>
             </div>
           </div>
