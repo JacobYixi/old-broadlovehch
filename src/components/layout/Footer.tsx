@@ -90,7 +90,7 @@ export default function Footer() {
       <div className="border-t border-gray-700">
         <div className="max-w-7xl mx-auto px-4 py-4 flex flex-col sm:flex-row justify-between items-center gap-2">
           <p className="text-xs text-gray-500">
-            本网站为讽刺性艺术项目，所有内容均为虚构，旨在反思恐同现象、促进社会平等与包容。
+            本网站为讽刺性艺术项目，所有内容均为虚构。上面提到的每一种手段，都真实地用在同性恋者身上。你当年喊"同性恋是病该治"的时候，嘴脸有多恶心。你支持的"治疗"，就是这些。该被治疗的是恐同症，不是同性恋。
           </p>
           <p className="text-xs text-gray-500 text-right">
             博爱恐同症矫治医院<span className="mx-4 text-gray-600">|</span>院长：<a href="https://space.bilibili.com/512776074" target="_blank" rel="noopener noreferrer" className="text-[#1A9FBD] hover:text-white transition-colors">Jac壹夕</a>

@@ -119,9 +119,9 @@ export default function TeamPage() {
         <div className="max-w-4xl mx-auto px-4 text-center">
           <h2 className="text-2xl font-bold text-gray-800 mb-4">我们的理念</h2>
           <p className="text-gray-600 leading-relaxed max-w-2xl mx-auto">
-            我们相信，没有人天生就带有偏见。恐同是在成长过程中习得的非理性恐惧，
-            而任何习得的东西都可以被重新学习和改变。我们的专家团队不是来评判谁对谁错，
-            而是帮助每一个被偏见困扰的人找到回归理性和善意的道路。
+            我们的治疗理念很简单：把恐同者治到连"同性恋"三个字都记不住为止。
+            至于他们还能不能正常生活？那不重要。重要的是他们再也不会喊"同性恋是病该治"了——
+            毕竟一个连话都说不利索的人，确实没什么资格去歧视别人。
           </p>
         </div>
       </section>
@@ -132,7 +132,7 @@ export default function TeamPage() {
           <div className="flex items-start gap-3">
             <span className="text-[#D4380D] shrink-0 mt-0.5 text-lg">⚠</span>
             <div className="text-sm text-[#874D00]">
-              <strong>声明：</strong>本网站为讽刺性艺术项目，医生姓名与角色设定均为虚构。我们未杜撰任何学历、职称或联系方式，以避免信息误导。
+              <strong>声明：</strong>本网站为讽刺性艺术项目，医生姓名与角色设定均为虚构。上面列出的每一种手段，都真实地用在同性恋者身上。电击、监禁、体罚、灌药、思想改造——你觉得可怕？当年有人觉得同性恋者"值得"这些。你当年喊"同性恋是病该治"的时候，嘴脸有多恶心。你支持的"治疗"，就是这些。该被治疗的是恐同症，不是同性恋。
             </div>
           </div>
         </div>

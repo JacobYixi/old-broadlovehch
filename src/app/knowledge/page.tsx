@@ -201,9 +201,7 @@ export default function KnowledgePage() {
           <div className="flex items-start gap-3">
             <AlertTriangle className="w-5 h-5 text-[#D4380D] shrink-0 mt-0.5" />
             <div className="text-sm text-[#874D00]">
-              <strong>声明：</strong>本网站为讽刺性艺术项目。科普内容中引用的学术概念是真实的，
-              但将"恐同症"作为一种需要临床"矫治"的疾病来框架化是讽刺手法。恐同偏见不是临床诊断，
-              但它造成的伤害是真实的。如果你或你认识的人需要帮助，请联系专业的LGBTQ+友善服务机构。
+              <strong>声明：</strong>本网站为讽刺性艺术项目。上面提到的每一种"矫治手段"，都真实地用在同性恋者身上。电击、监禁、体罚、灌药、思想改造——你觉得可怕？当年有人觉得同性恋者"值得"这些。你当年喊"同性恋是病该治"的时候，嘴脸有多恶心。你支持的"治疗"，就是这些。该被治疗的是恐同症，不是同性恋。
             </div>
           </div>
         </div>
