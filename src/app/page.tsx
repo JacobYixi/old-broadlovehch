@@ -142,7 +142,7 @@ export default function HomePage() {
               </h2>
               <div className="space-y-4 text-gray-600 leading-relaxed">
                 <p>
-                  恐同症（Homophobia）并非只是一种"立场"或"观点"，而是一种被国际医学界认可的心理障碍。
+                  恐同症（Homophobia）不只是立场或观点，更是一种需要正视的心理障碍。
                   世界卫生组织早在1990年就将同性恋从疾病分类中删除，但恐同症作为一种非理性恐惧
                   和偏见，至今仍深深困扰着大量人群。
                 </p>
