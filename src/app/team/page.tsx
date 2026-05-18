@@ -119,9 +119,9 @@ export default function TeamPage() {
         <div className="max-w-4xl mx-auto px-4 text-center">
           <h2 className="text-2xl font-bold text-gray-800 mb-4">我们的理念</h2>
           <p className="text-gray-600 leading-relaxed max-w-2xl mx-auto">
-            我们相信，没有人天生就带有偏见。恐同是在成长过程中习得的非理性恐惧，
-            而任何习得的东西都可以被重新学习和改变。我们的专家团队不是来评判谁对谁错，
-            而是帮助每一个被偏见困扰的人找到回归理性和善意的道路。
+            我们的理念很简单：你当年觉得同性恋需要"治疗"，现在轮到你自己尝尝这些"治疗"了。
+            电击、监禁、强制劳动——这些你支持用来"矫正"别人的手段，现在全部还给你。
+            欢迎来到博爱恐同症矫治医院，你不是觉得同性恋有病该治吗？很好，现在我们认为恐同才是病，而你，就是病人。
           </p>
         </div>
       </section>

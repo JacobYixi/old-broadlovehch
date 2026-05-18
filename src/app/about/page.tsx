@@ -1,35 +1,27 @@
-import { Shield, Heart, Brain, Eye, Target, Users } from 'lucide-react';
+'use client';
+
+import { Heart, Shield, BookOpen, Users, Eye, Target } from 'lucide-react';
 
 const values = [
   {
-    icon: Brain,
-    title: '科学循证',
-    desc: '所有诊疗方案均基于循证医学研究，拒绝伪科学与偏见',
-  },
-  {
     icon: Heart,
-    title: '尊重包容',
-    desc: '尊重每一位患者的人格尊严，以包容的态度推进矫治过程',
-  },
-  {
-    icon: Eye,
-    title: '洞察根源',
-    desc: '深入探索恐同心理的深层成因，而非仅仅治疗表面症状',
+    title: '铁腕与惩戒',
+    desc: '偏见不是观点，是错误。错误需要被纠正，无论对方愿不愿意',
   },
   {
     icon: Shield,
-    title: '隐私保护',
-    desc: '严格保护患者隐私，所有诊疗记录均采用最高标准加密',
+    title: '手段与效率',
+    desc: '电击、监禁、药物、洗脑——你当年觉得同性恋者"值得"这些，现在恐同者也"值得"',
   },
   {
-    icon: Target,
-    title: '精准治疗',
-    desc: '根据每位患者的具体情况制定个性化矫治方案',
+    icon: BookOpen,
+    title: '算账与报应',
+    desc: '当年支持对别人做的那些事，现在一笔一笔还回来。这叫公平',
   },
   {
     icon: Users,
-    title: '社会使命',
-    desc: '不仅治疗个体，更致力于推动社会对恐同症的认知与重视',
+    title: '使命与立场',
+    desc: '不是来跟你讲道理的。恐同者当年也没跟同性恋者讲道理',
   },
 ];
 
@@ -55,7 +47,7 @@ export default function AboutPage() {
               <div className="space-y-4 text-gray-600 leading-relaxed">
                 <p>
                   博爱恐同症矫治医院是国内首家专注于恐同症临床研究与矫治的
-                  专业医疗机构。我们坚信：恐同不是一种立场，而是一种需要被治愈的心理障碍。
+                  专业医疗机构。我们坚信：恐同不是立场，而是一种需要被治愈的心理障碍。
                 </p>
                 <p>
                   长期以来，社会对性少数群体的偏见和歧视被包装成"传统价值观"或"个人观点"，

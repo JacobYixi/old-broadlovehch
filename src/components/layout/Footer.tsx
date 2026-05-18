@@ -20,12 +20,14 @@ const quickLinks = [
     ],
   },
   {
-    title: '科普教育',
+    title: '科普知识',
     links: [
-      { href: '/knowledge', label: '科普知识' },
+      { href: '/knowledge#overview', label: '什么是恐同症' },
       { href: '/knowledge#symptoms', label: '症状识别' },
       { href: '/knowledge#causes', label: '成因分析' },
-      { href: '/knowledge#prevention', label: '预防指南' },
+      { href: '/knowledge#harm', label: '恐同的危害' },
+      { href: '/knowledge#prevention', label: '矫治方案' },
+      { href: '/knowledge#resources', label: '延伸资源' },
     ],
   },
 ];
