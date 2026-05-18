@@ -174,15 +174,6 @@ export default function AppointmentPage() {
       <section className="bg-[#F5F7FA] py-12">
         <div className="max-w-2xl mx-auto px-4">
           <div className="medical-card p-8">
-            <div className="bg-[#FFF7E6] border border-[#FFE58F] rounded-lg p-4 mb-6">
-              <div className="flex items-start gap-3">
-                <AlertTriangle className="w-5 h-5 text-[#D4380D] shrink-0 mt-0.5" />
-                <div className="text-sm text-[#874D00]">
-                  <strong>注意：</strong>本网站为讽刺性艺术项目，所有预约信息仅在本地处理，不会提交至任何服务器，也不会有人联系你。请随意填写，反正没人会当真。
-                </div>
-              </div>
-            </div>
-
             {/* Step 1: Basic Info */}
             {step === 1 && (
               <div>
