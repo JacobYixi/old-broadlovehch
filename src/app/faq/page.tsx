@@ -187,7 +187,7 @@ export default function FAQPage() {
             <h3 className="font-bold text-[#0C6B8A] mb-3">值得思考的问题</h3>
             <ul className="space-y-2 text-sm text-gray-600">
               <li>• 为什么"矫正同性恋"被讨论了几十年，而"矫正恐同"却从未被当作正经议题？</li>
-              <li>• 如果偏见可以被遗传和传授，它是不是比性取向更像一种"病"？</li>
+              <li>• 偏见是后天被灌输的，性取向是与生俱来的——到底是谁才需要"治疗"？</li>
               <li>• 当你说同性恋"不正常"时，你的判断标准是科学，还是恐惧？</li>
               <li>• 一个社会是否有权以"传统"为名，否定一部分人的基本权利？</li>
             </ul>
