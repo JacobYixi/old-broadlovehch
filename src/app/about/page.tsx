@@ -46,8 +46,8 @@ export default function AboutPage() {
               <h2 className="text-3xl font-bold text-gray-800 mb-6">医院使命</h2>
               <div className="space-y-4 text-gray-600 leading-relaxed">
                 <p>
-                  博爱恐同症矫治医院是国内首家专注于恐同症临床研究与矫治的
-                  专业医疗机构。我们坚信：恐同不是立场，而是一种需要被治愈的心理障碍。
+                  博爱恐同症矫治医院致力于恐同症的临床研究与矫治工作。
+                  我们坚信：恐同不是正常，而是一种需要被治愈的心理障碍。
                 </p>
                 <p>
                   长期以来，社会对性少数群体的偏见和歧视被包装成"传统价值观"或"个人观点"，
@@ -62,10 +62,10 @@ export default function AboutPage() {
             </div>
             <div className="bg-[#E8F4F8] rounded-xl p-8 flex flex-col justify-center">
               <blockquote className="text-lg text-[#0C6B8A] italic leading-relaxed border-l-4 border-[#0C6B8A] pl-4">
-                &ldquo;恐同症不是同性恋者的疾病，而是恐同者自己的认知缺陷。&rdquo;
+                &ldquo;当年你觉得同性恋需要治疗，现在轮到你自己了。&rdquo;
               </blockquote>
               <p className="text-sm text-gray-500 mt-4 pl-4">
-                我们相信，理解偏见是消除偏见的第一步。
+                欢迎来到博爱恐同症矫治医院。
               </p>
             </div>
           </div>
