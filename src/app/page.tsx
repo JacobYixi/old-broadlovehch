@@ -3,7 +3,7 @@
 import Link from 'next/link';
 
 import {
-  Activity, Brain, Heart, ChevronRight,
+  Brain, Heart, Zap, Hammer, Lock, ChevronRight,
   AlertTriangle, Stethoscope, ClipboardCheck,
   ArrowRight, Star
 } from 'lucide-react';
@@ -11,26 +11,26 @@ import {
 const services = [
   {
     icon: Brain,
-    title: '认知重构疗法',
-    desc: '用你们当年对同性恋者用过的方法，现在原封不动还给你。既然你觉得"矫正"没问题，那就别叫。',
+    title: '认知灌输疗程',
+    desc: '每天4-6小时高强度思想灌输，直到你记住正确的观点为止。当年你们不也是这样"教育"别人的吗？',
     href: '/services',
   },
   {
-    icon: Heart,
-    title: '共情唤醒疗程',
-    desc: '让你体验一下被关起来、被审视、被定义的感觉。别担心，这不是虐待，这叫"沉浸式体验"。',
+    icon: Lock,
+    title: '行为约束矫正',
+    desc: '在隔离环境中24小时处于监督之下，消除隐私空间。别担心，这不是虐待，这叫"结构化环境"。',
     href: '/services',
   },
   {
-    icon: Activity,
-    title: '行为脱敏训练',
-    desc: '每天强制观看同性恋相关内容直到麻木。当年有人觉得"脱敏"是科学，现在让你体会一下这种"科学"。',
+    icon: Zap,
+    title: '电刺激矫正疗法',
+    desc: '通过精确控制的电流刺激建立条件反射。当年有人觉得电击同性恋是"科学"，现在让你体会一下这种"科学"。',
     href: '/services',
   },
   {
-    icon: Stethoscope,
-    title: '深度心理疏导',
-    desc: '一对一地告诉你：你的偏见不是观点，是错误。错误需要纠正，无论你愿意不愿意。',
+    icon: Hammer,
+    title: '强制劳动康复',
+    desc: '每天8小时体力劳动，累到没力气歧视。这不是惩罚，是"消耗过剩的攻击性能量"。',
     href: '/services',
   },
 ];

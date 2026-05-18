@@ -65,7 +65,7 @@ export default function TeamPage() {
         <div className="max-w-7xl mx-auto px-4">
           <h1 className="text-4xl font-bold mb-4">专家团队</h1>
           <p className="text-white/80 text-lg max-w-2xl">
-            由资深心理治疗师和研究员组成的专业团队，致力于恐同症的科学矫治
+            一群认真执行"以彼之道还施彼身"的专业人士
           </p>
         </div>
       </section>

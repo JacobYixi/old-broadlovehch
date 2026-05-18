@@ -46,8 +46,8 @@ export default function AboutPage() {
               <h2 className="text-3xl font-bold text-gray-800 mb-6">医院使命</h2>
               <div className="space-y-4 text-gray-600 leading-relaxed">
                 <p>
-                  博爱恐同症矫治医院致力于恐同症的临床研究与矫治工作。
-                  我们坚信：恐同不是正常，而是一种需要被矫治的心理障碍。
+                  我们存在的理由很简单：你当年觉得同性恋需要"治疗"，现在我们认为恐同才需要被治。
+                  而且我们用的疗法，都是你当年觉得"没问题"的那些。
                 </p>
                 <p>
                   长期以来，社会对性少数群体的偏见和歧视被包装成"传统价值观"或"个人观点"，

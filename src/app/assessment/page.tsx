@@ -154,7 +154,7 @@ function getResult(score: number) {
       bgColor: 'bg-yellow-50',
       borderColor: 'border-yellow-200',
       icon: AlertTriangle,
-      desc: '你的恐同倾向已经比较明显了。你可能经常在朋友圈转发一些"传统价值观"的文章，或者在饭桌上发表"我不是歧视，但是……"的高见。',
+      desc: '你的恐同倾向已经比较明显了。你可能经常在朋友圈转发一些"传统价值观"的文章，或者在饭桌上发表"我这是为了社会好"的高见。',
       advice: '建议认真思考一下：你的这些观点，有多少来自独立思考，有多少来自环境的灌输？改变偏见的第一步，是意识到自己可能有偏见。',
     };
   } else if (percentage <= 80) {
