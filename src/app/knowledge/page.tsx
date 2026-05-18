@@ -12,7 +12,7 @@ const sections = [
       },
       {
         title: '历史背景',
-        text: '1972年，心理学家乔治·温伯格（George Weinberg）首次提出"恐同症"这一概念，指出对同性恋的恐惧和偏见是一种心理问题，而非道德缺陷。世界卫生组织于1990年将同性恋从国际疾病分类中删除，确认同性恋不是一种疾病。',
+        text: '1972年，心理学家乔治·温伯格（George Weinberg）首次提出"恐同症"这一概念，指出对同性恋的恐惧和偏见是一种心理问题，而非道德缺陷。世界卫生组织于1990年5月17日通过大会决议将同性恋从疾病分类中删除，并在1992年发布的ICD-10中正式落实，确认同性恋不是一种疾病。',
       },
       {
         title: '关键区分',
@@ -111,7 +111,7 @@ const sections = [
     content: [
       {
         title: '推荐阅读',
-        text: '• 《The Nature of Prejudice》（偏见的本质）— Gordon Allport\n• 《Social Beings: Core Motives in Social Psychology》— Susan Fiske\n• 《Sexual Orientation and Homosexuality》— American Psychological Association\n• 世界卫生组织 ICD-11 疾病分类标准（1990年已将同性恋去病化）',
+        text: '• 《The Nature of Prejudice》（偏见的本质）— Gordon Allport\n• 《Social Beings: Core Motives in Social Psychology》— Susan Fiske\n• 《Answers to Your Questions: For a Better Understanding of Sexual Orientation and Homosexuality》— American Psychological Association\n• 世界卫生组织《国际疾病分类第10版》（ICD-10, 1992）— 1990年5月17日大会决议将同性恋去病化',
       },
       {
         title: '专业支持',
