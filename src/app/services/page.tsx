@@ -54,7 +54,7 @@ const treatments = [
   },
   {
     icon: Brain,
-    title: '认知灌输疗程',
+    title: '思想改造疗程',
     duration: '4-8周',
     sessions: '每日4-6小时',
     level: '中度-重度',

@@ -103,7 +103,7 @@ const cases: CaseItem[] = [
     occupation: '仓库管理员',
     level: '重度恐同症',
     symptoms: ['认为同性恋是"西方阴谋"', '主张通过立法限制同性恋权利', '将同性恋与道德败坏等同'],
-    treatment: '认知灌输疗程',
+    treatment: '思想改造疗程',
     duration: '12个月',
     status: '痊愈',
     before: '在业主群组织反同性恋签名活动，主张"同性恋违法化"，认为同性恋是"西方腐朽文化的入侵"。',

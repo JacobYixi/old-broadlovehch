@@ -11,7 +11,7 @@ import {
 const services = [
   {
     icon: Brain,
-    title: '认知灌输疗程',
+    title: '思想改造疗程',
     desc: '每天4-6小时高强度思想灌输，直到你记住正确的观点为止。当年你们不也是这样"教育"别人的吗？',
     href: '/services',
   },

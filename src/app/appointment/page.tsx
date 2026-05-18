@@ -6,7 +6,7 @@ import { CalendarDays, Clock, User, CheckCircle2, AlertTriangle } from 'lucide-r
 const departments = [
   '电刺激矫正科',
   '行为约束科',
-  '认知灌输科',
+  '思想改造科',
   '强制劳动科',
   '药物干预科',
   '羞耻疗法科',

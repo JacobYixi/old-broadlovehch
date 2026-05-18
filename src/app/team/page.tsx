@@ -3,7 +3,7 @@ import { Brain, Heart, Activity, Stethoscope, Users, MessageSquare, Quote } from
 const doctors = [
   {
     name: '赵明德',
-    title: '首席研究员 / 认知灌输疗程学科带头人',
+    title: '首席研究员 / 思想改造疗程学科带头人',
     specialty: '认知行为治疗',
     icon: Brain,
     focus: '高强度信息输入与认知结构重塑 / 通过系统性灌输纠正恐同认知偏差',
