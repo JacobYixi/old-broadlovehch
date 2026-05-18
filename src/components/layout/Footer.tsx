@@ -93,7 +93,7 @@ export default function Footer() {
             本网站为讽刺性艺术项目，所有内容均为虚构，旨在反思恐同现象、促进社会平等与包容。
           </p>
           <p className="text-xs text-gray-500">
-            院长：<a href="https://space.bilibili.com/512776074" target="_blank" rel="noopener noreferrer" className="hover:text-[#1A9FBD] underline underline-offset-2">Jac壹夕</a> | 博爱恐同症矫治医院
+            博爱恐同症矫治医院 · 院长 <a href="https://space.bilibili.com/512776074" target="_blank" rel="noopener noreferrer" className="hover:text-[#1A9FBD]">Jac壹夕</a>
           </p>
         </div>
       </div>
