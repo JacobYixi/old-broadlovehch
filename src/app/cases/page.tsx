@@ -142,7 +142,7 @@ export default function CasesPage() {
             <AlertTriangle className="w-5 h-5 text-[#D4380D] shrink-0 mt-0.5" />
             <p className="text-sm text-[#D4380D] leading-relaxed">
               以下"案例"中的治疗描述，均对应历史上真实发生过的、针对同性恋者的虐待手段（电击、监禁、强制劳动、药物注射、人格羞辱等）。
-              本网站通过将这些手段"推荐"给恐同者，来揭示这种逻辑的荒谬与残忍。
+              本网站通过将这些手段"推荐"给恐同者——恐同者才需要这种治疗。
             </p>
           </div>
         </div>
