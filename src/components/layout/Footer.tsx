@@ -92,9 +92,10 @@ export default function Footer() {
           <p className="text-xs text-gray-500">
             本网站为讽刺性艺术项目，所有内容均为虚构，旨在反思恐同现象、促进社会平等与包容。
           </p>
-          <p className="text-xs text-gray-500">
-            博爱恐同症矫治医院 · 院长 <a href="https://space.bilibili.com/512776074" target="_blank" rel="noopener noreferrer" className="text-[#1A9FBD] hover:text-white transition-colors">Jac壹夕</a>
-          </p>
+          <div className="text-xs text-gray-500 text-right">
+            <p>博爱恐同症矫治医院</p>
+            <p>院长：<a href="https://space.bilibili.com/512776074" target="_blank" rel="noopener noreferrer" className="text-[#1A9FBD] hover:text-white transition-colors">Jac壹夕</a></p>
+          </div>
         </div>
       </div>
     </footer>
