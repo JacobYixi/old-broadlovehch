@@ -129,7 +129,7 @@ export default function KnowledgePage() {
         <div className="max-w-7xl mx-auto px-4">
           <h1 className="text-4xl font-bold mb-4">科普知识</h1>
           <p className="text-white/80 text-lg max-w-2xl">
-            来了解一下恐同症是怎么回事——毕竟很多人连自己在怕什么都不知道
+            来看看恐同症到底是什么——不少人连自己怕的是什么都搞不明白
           </p>
         </div>
       </section>
