@@ -128,7 +128,7 @@ export default function CasesPage() {
         <div className="mx-auto max-w-4xl px-4">
           <h1 className="mb-4 text-3xl font-bold md:text-4xl">康复案例</h1>
           <p className="mx-auto max-w-2xl text-lg text-white/80">
-            真实记录患者治疗前后的变化，有些话他们自己说出来更有说服力
+            本院康复案例选编——治疗效果稳定，患者反馈积极
           </p>
         </div>
       </section>
