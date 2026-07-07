@@ -106,3 +106,6 @@ Desktop.ini
 
 # User uploaded assets
 assets/
+
+# Temporary source files
+public/favicon-source.png
