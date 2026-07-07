@@ -103,3 +103,6 @@ Desktop.ini
 # Preview files
 .preview
 .codegraph
+
+# User uploaded assets
+assets/
